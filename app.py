@@ -1,8 +1,4 @@
-
-VERSION = "3
-
-
-"
+VERSION = "3"
 
 
 def add(a, b):
@@ -11,3 +7,4 @@ def add(a, b):
 
 if __name__ == "__main__":
     print(f"hello-app version {VERSION}")
+
